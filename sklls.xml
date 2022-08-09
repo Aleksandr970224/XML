@@ -1,0 +1,31 @@
+<sklls>
+	<basicTheory>whatIsTesting,bugReport,documentation,typesiMethodsDirectionsTesting</basicTheory>
+	<SDLC></SDLC>
+	<STLC></STLC>
+	<client-serverArchitecture></client-serverArchitecture>
+	<httpMethodsRequestsToTheServer></httpMethodsRequestsToTheServer>
+	<codesResponesHttpServer></codesResponesHttpServer>
+	<structureHttpRequestsAndRespons></structureHttpRequestsAndRespons>
+	<whatIsJsonXml>theirStructure</whatIsJsonXml>
+	<testingApiByPostman>JsAutotestsApi</testingapiByPostman>
+	<removingAndReadingLogsFromAnExternalServer></removingAndReadingLogsFromAnExternalServer>
+	<sniffHttpWebTrafficByCharlesAndFiddler></sniffHttpWebTrafficByCharlesAndFiddler>
+	<DevToolsWebBrowser>googleChrome,fireFox</DevToolsWebBrowser>
+	<vpn>howItWorks,whyItIsNeeded,howToUseIt,toolOption</vpn>
+	<mobileTesting></mobileTesting>
+	<specificity>ios,android,guideline</specificity>
+	<builgingIosAppsOnXcode></builgingIosAppsOnXcode>
+	<buildingAndroidAppsOnAndroidStudio></buildingAndroidAppsOnAndroidStudio>
+	<adb>managementAndroidDivece</adb>
+	<settingUpAProxyServerAndVpnOnIosAndAndroid></settingUpAProxyServerAndVpnOnIosAndAndroid>
+	<interceptionOfMobileTrafficByCharlesAndFidlerOnIosAsnAndroid></interceptionOfMobileTrafficByCharlesAndFidlerOnIosAsnAndroid>
+	<linuxCommandLine>copying,creating,viewing,movingFilesOnServerWithoutAGraphicalInterface</linuxCommandLine>
+	<basicOfBashScripting>automationOfRoutineTasksOnTheServer</basicOfBashScripting>
+	<accessToRemoteServers></accessToRemoteServers>
+	<BasicsSql>create,delete,drop,insertInto,select,from,where,join</BasicsSql>
+	<postgresDatabase>installation,configuration,use</postgresDatabase>
+	<redisNon-relationDatabase>installation,configuration,use</redisNon-relationDatabase>
+	<loadTestingInJmeter></loadTestingInJmeter>
+	<developmentMethodologyScrum></developmentMethodologyScrum>
+	<python>leraningTheBasic,creatingAServerApplicationClient</puthon>
+</sklls>
